@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args)
     {
-	    Main.sequenceOfNumbers();
+	    Main.test();
     }
 
     public static void test()
